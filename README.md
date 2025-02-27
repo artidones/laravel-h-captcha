@@ -23,7 +23,7 @@ Add the following line to the `require` section of `composer.json`:
 ```json
 {
     "require": {
-        "buzz/laravel-h-captcha": "1.*"
+        "artidones/laravel-h-captcha": "1.*"
     }
 }
 ```
@@ -32,7 +32,7 @@ OR
 
 Require this package with composer:
 ```
-composer require buzz/laravel-h-captcha
+composer require artidones/laravel-h-captcha
 ```
 
 Update your packages with ```composer update``` or install with ```composer install```.
